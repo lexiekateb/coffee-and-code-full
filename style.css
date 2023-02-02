@@ -64,6 +64,11 @@ a {
     color: white;
  }
 
+.header-text {
+    font-size:90px; 
+    background-color: black;
+}
+
 .black-back {
     background-color: black;
 }
